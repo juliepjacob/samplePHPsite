@@ -1,3 +1,5 @@
+<?php include("variables.php"); ?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -16,10 +18,9 @@
     <h1>
             <?php
 
-                echo "Welcome to PHP site<br/>";
-                //$first_name = "John";
-                $favorite_number = 5;
-               // echo $first_name;
+                echo "Copyright (c) " . $company_name . " ". date("Y") . " All Rights Reserved";
+               
+              
 
             ?>      
 
