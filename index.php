@@ -16,10 +16,10 @@
     <h1>
             <?php
 
-                echo "Hello World<br/>";
-                $first_name = "John";
+                echo "Welcome to PHP site<br/>";
+                //$first_name = "John";
                 $favorite_number = 5;
-                echo $first_name;
+               // echo $first_name;
 
             ?>      
 
